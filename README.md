@@ -3,6 +3,11 @@
   Hello, I'm Miguel Angel
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
 </h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Frond-end+Developer;Entrepreneurship+creator;Passionate+about+IT+infrastructure;Always+learning+new+things"></a>
+</p>
+
 <br/>
 <img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
 
@@ -10,7 +15,7 @@
 - 💻 𝚃𝚛𝚊𝚋𝚊𝚓𝚊𝚗𝚍𝚘 𝚙𝚛𝚒𝚗𝚌𝚒𝚙𝚊𝚕𝚖𝚎𝚗𝚝𝚎 𝚌𝚘𝚗 **𝚂𝚙𝚛𝚒𝚗𝚐𝙱𝚘𝚘𝚝, 𝙰𝚗𝚐𝚞𝚕𝚊𝚛 𝚢 𝙳𝚘𝚌𝚔𝚎𝚛**
 - 🌱 𝙴𝚗 𝚌𝚘𝚗𝚜𝚝𝚊𝚗𝚝𝚎 𝚊𝚙𝚛𝚎𝚗𝚍𝚒𝚣𝚊𝚓𝚎 𝚍𝚎 **𝙰𝚛𝚚𝚞𝚒𝚝𝚎𝚌𝚝𝚞𝚛𝚊 𝙲𝚕𝚘𝚞𝚍 𝚢 𝙳𝚎𝚟𝙾𝚙𝚜**
 - 👯 𝙱𝚞𝚜𝚌𝚊𝚗𝚍𝚘 𝚌𝚘𝚕𝚊𝚋𝚘𝚛𝚊𝚛 𝚎𝚗 𝚙𝚛𝚘𝚢𝚎𝚌𝚝𝚘𝚜 𝚍𝚎 **𝙳𝚎𝚜𝚊𝚛𝚛𝚘𝚕𝚕𝚘 𝚠𝚎𝚋 𝚏𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔**
-- 💬 𝙿𝚛𝚎𝚐𝚞𝚗𝚝𝚊𝚖𝚎 𝚜𝚘𝚋𝚛𝚎 **𝙹𝚊𝚟𝚊, 𝚂𝚙𝚛𝚒𝚗𝚐𝙱𝚘𝚘𝚝, 𝙰𝚗𝚐𝚞𝚕𝚊𝚛 𝚘 𝙱𝚊𝚜𝚎𝚜 𝚍𝚎 𝙳𝚊𝚝𝚘𝚜**
+- 💬 𝙿𝚛𝚎𝚐𝚞𝚗𝚝𝚊𝚖𝚎 𝚜𝚘𝚋𝚛𝚎 **𝙹𝚊𝚟𝚊, 𝚂𝚙𝚛𝚒𝚗𝚐𝙱𝚘𝚘𝚝, 𝙰𝚗𝚐𝚞𝚕𝚊𝚛 𝚘 OracleSQL**
 - 📫 𝙲𝚘𝚗𝚝á𝚌𝚝𝚊𝚖𝚎: **[miraortega2020@gmail.com]**
 - 🌐 𝙽𝚒𝚟𝚎𝚕 𝚍𝚎 𝚒𝚗𝚐𝚕é𝚜: **𝙱1**
 - ⚡ 𝙳𝚊𝚝𝚘 𝚌𝚞𝚛𝚒𝚘𝚜𝚘: **𝙴𝚕 𝚖𝚎𝚓𝚘𝚛 𝚌ó𝚍𝚒𝚐𝚘 𝚎𝚜 𝚊𝚚𝚞𝚎𝚕 𝚚𝚞𝚎 𝚗𝚘 𝚗𝚎𝚌𝚎𝚜𝚒𝚝𝚊 𝚖𝚊𝚗𝚝𝚎𝚗𝚒𝚖𝚒𝚎𝚗𝚝𝚘**
