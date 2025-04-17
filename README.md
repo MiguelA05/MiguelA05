@@ -3,105 +3,144 @@
   Hello, I'm Miguel Angel
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
 </h1>
-
 <br/>
-
 <img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
 
-- 🎓 Systems Engineering student about to graduate
-- 💻 Specialized in **Java with Spring Boot** and **Angular** for web development
-- 🔍 Currently expanding my knowledge in **Cloud Technologies** and **Microservices Architecture**
-- 🌱 Learning **Kubernetes** and **AWS** to complement my Docker skills
-- 👯 Looking to collaborate on **Web Development** or **Java Backend** projects
-- 💬 Ask me about Java, Spring Boot, Angular, or databases!
-- 📫 How to reach me: [Insert your email or contact method]
-- 🌎 English proficiency: B1 level
-- ⚡ Fun fact: **The best code is the code that works when nobody is watching**
+- 🎓 𝙸𝚗𝚐𝚎𝚗𝚒𝚎𝚛𝚘 𝚎𝚗 𝚂𝚒𝚜𝚝𝚎𝚖𝚊𝚜 𝚌𝚘𝚗 𝚎𝚗𝚏𝚘𝚚𝚞𝚎 𝚎𝚗 **𝙳𝚎𝚜𝚊𝚛𝚛𝚘𝚕𝚕𝚘 𝚆𝚎𝚋 𝚢 𝙰𝚛𝚚𝚞𝚒𝚝𝚎𝚌𝚝𝚞𝚛𝚊 𝚍𝚎 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎**
+- 💻 𝚃𝚛𝚊𝚋𝚊𝚓𝚊𝚗𝚍𝚘 𝚙𝚛𝚒𝚗𝚌𝚒𝚙𝚊𝚕𝚖𝚎𝚗𝚝𝚎 𝚌𝚘𝚗 **𝚂𝚙𝚛𝚒𝚗𝚐𝙱𝚘𝚘𝚝, 𝙰𝚗𝚐𝚞𝚕𝚊𝚛 𝚢 𝙳𝚘𝚌𝚔𝚎𝚛**
+- 🌱 𝙴𝚗 𝚌𝚘𝚗𝚜𝚝𝚊𝚗𝚝𝚎 𝚊𝚙𝚛𝚎𝚗𝚍𝚒𝚣𝚊𝚓𝚎 𝚍𝚎 **𝙰𝚛𝚚𝚞𝚒𝚝𝚎𝚌𝚝𝚞𝚛𝚊 𝙲𝚕𝚘𝚞𝚍 𝚢 𝙳𝚎𝚟𝙾𝚙𝚜**
+- 👯 𝙱𝚞𝚜𝚌𝚊𝚗𝚍𝚘 𝚌𝚘𝚕𝚊𝚋𝚘𝚛𝚊𝚛 𝚎𝚗 𝚙𝚛𝚘𝚢𝚎𝚌𝚝𝚘𝚜 𝚍𝚎 **𝙳𝚎𝚜𝚊𝚛𝚛𝚘𝚕𝚕𝚘 𝚠𝚎𝚋 𝚏𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔**
+- 💬 𝙿𝚛𝚎𝚐𝚞𝚗𝚝𝚊𝚖𝚎 𝚜𝚘𝚋𝚛𝚎 **𝙹𝚊𝚟𝚊, 𝚂𝚙𝚛𝚒𝚗𝚐𝙱𝚘𝚘𝚝, 𝙰𝚗𝚐𝚞𝚕𝚊𝚛 𝚘 𝙱𝚊𝚜𝚎𝚜 𝚍𝚎 𝙳𝚊𝚝𝚘𝚜**
+- 📫 𝙲𝚘𝚗𝚝á𝚌𝚝𝚊𝚖𝚎: **[miraortega2020@gmail.com]**
+- 🌐 𝙽𝚒𝚟𝚎𝚕 𝚍𝚎 𝚒𝚗𝚐𝚕é𝚜: **𝙱1**
+- ⚡ 𝙳𝚊𝚝𝚘 𝚌𝚞𝚛𝚒𝚘𝚜𝚘: **𝙴𝚕 𝚖𝚎𝚓𝚘𝚛 𝚌ó𝚍𝚒𝚐𝚘 𝚎𝚜 𝚊𝚚𝚞𝚎𝚕 𝚚𝚞𝚎 𝚗𝚘 𝚗𝚎𝚌𝚎𝚜𝚒𝚝𝚊 𝚖𝚊𝚗𝚝𝚎𝚗𝚒𝚖𝚒𝚎𝚗𝚝𝚘**
 
 <br/>
 <br/>
 
-## 🛠️ Technologies & Tools
-
 <p align="center">
-  <!-- Backend -->
-  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java">
-  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="Spring Boot">
-  
-  <!-- Frontend -->
-  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular">
-  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript">
-  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML">
-  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS">
-  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript">
-  
-  <!-- Databases -->
-  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB">
-  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/oracle/oracle.png" alt="Oracle SQL">
-  
-  <!-- Tools -->
-  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker">
-  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git">
+  <img src="https://komarev.com/ghpvc/?username=MiguelA05&style=flat&color=brightgreen" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/MiguelA05?label=Followers&style=social"> •
+  <img src="https://img.shields.io/github/stars/MiguelA05?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 
-## 📊 GitHub Stats
+## 𝙻𝙴𝙽𝙶𝚄𝙰𝙹𝙴𝚂 𝚈 𝙷𝙴𝚁𝚁𝙰𝙼𝙸𝙴𝙽𝚃𝙰𝚂
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Miguel's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Miguel's Top Languages" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+## 𝙴𝚂𝚃𝙰𝙳Í𝚂𝚃𝙸𝙲𝙰𝚂 𝙳𝙴 𝙶𝙸𝚃𝙷𝚄𝙱
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelA05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelA05&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="Miguel's GitHub Streak" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelA05&theme=tokyonight&hide_border=true" />
 </p>
 
-## 💡 Projects
 
-Here are some of my notable projects:
 
-- **[Project Name 1]** - Brief description of the project
-- **[Project Name 2]** - Brief description of the project
-- **[Project Name 3]** - Brief description of the project
 
-## 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
-    <img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
-    <img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub"/>
-  </a>
-  <!-- Add other social media or professional profiles as needed -->
-</p>
 
+#
+
+<details open="">
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+  <strong>MÁS SOBRE MI TRABAJO: </strong>
+</summary>
 <br/>
 
 <p align="center">
-  <h4 align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MiguelA05&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelA05&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+</p>
+</details>
+<br/>
+
+<h4 align="center">
   
 ```diff
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@                                                     @@
 @@       o o                                           @@
 @@       | |                                           @@
 @@      _L_L_                                          @@
-@@   ❮\/__-__\/❯   Clean code always looks like it     @@
-@@   ❮(|~o.o~|)❯   was written by someone who cares    @@
+@@   ❮\/__-__\/❯     Clean code always looks like it   @@
+@@   ❮(|~o.o~|)❯    was written by someone who cares   @@
 @@   ❮/ \`-'/ \❯                                       @@
 @@     _/`U'\_                                         @@
 @@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while(!(succeed = try())); |     @@
+@@   / /     \ \    | while( ! (succed=try() ) ) |     @@
 @@   \ |  ,  | /    '----------------------------'     @@
 @@    \|=====|/                                        @@
 @@     |_.^._|                                         @@
-@@                                                     @@
+@@     | |"| |                                         @@
+@@     ( ) ( )                                         @@
+@@     |_| |_|                                         @@
+@@ _.-' _j L_ '-._                                     @@
+@@(___.'     '.___)                                    @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 ```
 
 </h4>  
+
+#
+
+
+#
+
+## 𝙿𝚁𝙾𝚈𝙴𝙲𝚃𝙾𝚂 𝙳𝙴𝚂𝚃𝙰𝙲𝙰𝙳𝙾𝚂
+
+<p align="center">
+  <a href="https://github.com/MiguelA05/tienda-sana-frontend">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MiguelA05&repo=tienda-sana-frontend&theme=tokyonight" />
+  </a>
 </p>
 
-### 🌟 Show some love by starring some of the repositories!
+## 𝙲𝙾𝙽𝙴𝙲𝚃𝙰 𝙲𝙾𝙽𝙼𝙸𝙶𝙾
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+<p align="center">
+  <a href="https://www.linkedin.com/in/tu-perfil-linkedin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.comMiguelA05" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="miraortega2020@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+
+#
+
+
+<br/>
+
+
+<div align="center">
+  <h3>𝙼𝚞𝚎𝚜𝚝𝚛𝚊 𝚝𝚞 𝚊𝚙𝚘𝚢𝚘 𝚍𝚊𝚗𝚍𝚘 ⭐ 𝚊 𝚖𝚒𝚜 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚘𝚜</h3>
+</div>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Me encanta conectar con diferentes personas</b>, así que <b>si quieres saludar, ¡estaré feliz de conocerte!</b> 😊</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
